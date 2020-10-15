@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,KACE,SAAU,CACV,QAAS,CACT,iBACF,CAEA,UACE,YACF","file":"main.ea413d73.chunk.css","sourcesContent":["body {\r\n  padding: 0;\r\n  margin: 0;\r\n  position: absolute;\r\n}\r\n\r\n.fd-panel {\r\n  padding: 15px;\r\n}\r\n"]}

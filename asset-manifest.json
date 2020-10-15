@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/luigi-react/static/css/main.ea413d73.chunk.css",
+    "main.js": "/luigi-react/static/js/main.dfba8aa4.chunk.js",
+    "main.js.map": "/luigi-react/static/js/main.dfba8aa4.chunk.js.map",
+    "runtime-main.js": "/luigi-react/static/js/runtime-main.eee60e35.js",
+    "runtime-main.js.map": "/luigi-react/static/js/runtime-main.eee60e35.js.map",
+    "static/css/2.e2a9e869.chunk.css": "/luigi-react/static/css/2.e2a9e869.chunk.css",
+    "static/js/2.0533f226.chunk.js": "/luigi-react/static/js/2.0533f226.chunk.js",
+    "static/js/2.0533f226.chunk.js.map": "/luigi-react/static/js/2.0533f226.chunk.js.map",
+    "index.html": "/luigi-react/index.html",
+    "luigi-core/0072d92bfeaf57f02de04342d06a3463.woff2": "/luigi-react/luigi-core/0072d92bfeaf57f02de04342d06a3463.woff2",
+    "luigi-core/1e678655fe64a8a126dd51619f22edde.woff": "/luigi-react/luigi-core/1e678655fe64a8a126dd51619f22edde.woff",
+    "luigi-core/33bdbe44954b2ca9b5e7bbc0d5ab8860.woff": "/luigi-react/luigi-core/33bdbe44954b2ca9b5e7bbc0d5ab8860.woff",
+    "luigi-core/48cb3e07e7e509d6c81c420507d7916b.woff": "/luigi-react/luigi-core/48cb3e07e7e509d6c81c420507d7916b.woff",
+    "luigi-core/5d817eee24266da78f96ef5e36c9019a.woff": "/luigi-react/luigi-core/5d817eee24266da78f96ef5e36c9019a.woff",
+    "luigi-core/85e09d643e5d4b5f98c3aaf365bd1c02.woff2": "/luigi-react/luigi-core/85e09d643e5d4b5f98c3aaf365bd1c02.woff2",
+    "luigi-core/8b3b97ff8e0a414140609055fced4d8e.woff2": "/luigi-react/luigi-core/8b3b97ff8e0a414140609055fced4d8e.woff2",
+    "luigi-core/README.md": "/luigi-react/luigi-core/README.md",
+    "luigi-core/f6226f10e41be591218339108cc242a1.woff2": "/luigi-react/luigi-core/f6226f10e41be591218339108cc242a1.woff2",
+    "luigi-core/luigi.css": "/luigi-react/luigi-core/luigi.css",
+    "luigi-core/luigi.js": "/luigi-react/luigi-core/luigi.js",
+    "luigi-core/luigi.js.map": "/luigi-react/luigi-core/luigi.js.map",
+    "luigi-core/package.json": "/luigi-react/luigi-core/package.json",
+    "precache-manifest.29f03056ba7774729a26dfe1c802a4d9.js": "/luigi-react/precache-manifest.29f03056ba7774729a26dfe1c802a4d9.js",
+    "sampleapp.html": "/luigi-react/sampleapp.html",
+    "service-worker.js": "/luigi-react/service-worker.js",
+    "static/css/2.e2a9e869.chunk.css.map": "/luigi-react/static/css/2.e2a9e869.chunk.css.map",
+    "static/css/main.ea413d73.chunk.css.map": "/luigi-react/static/css/main.ea413d73.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eee60e35.js",
+    "static/css/2.e2a9e869.chunk.css",
+    "static/js/2.0533f226.chunk.js",
+    "static/css/main.ea413d73.chunk.css",
+    "static/js/main.dfba8aa4.chunk.js"
+  ]
+}
